@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Kotlin<br>🎯 Goals: Be proficient in as many programming languages as possible<br>🎲 Fun fact: )</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently studying<br>🎯 Goals: Be proficient in as many programming languages as possible<br>🎲 Fun fact: )</p>
 
 ###
 
